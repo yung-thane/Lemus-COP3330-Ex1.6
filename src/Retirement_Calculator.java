@@ -1,3 +1,9 @@
+/*
+ * UCF COP3330 Fall 2021 Assignment 1.6 Solution
+ * Copyright 2021 Ronald Lemus
+ */
+
+
 import java.util.Calendar;
 import java.util.Scanner;
 
